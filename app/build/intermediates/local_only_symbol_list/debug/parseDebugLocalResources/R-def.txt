@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+drawable logo1
+drawable rounded_button
+drawable search_bar_bg
+id btnEnableAccessibility
+id btnPickDateTime
+id btnSchedule
+id etSearchLocation
+id map
+id tvAppName
+id tvPicked
+id tvStatus
+layout activity_main
+string accessibility_service_description
+string app_name
+xml uber_accessibility_service

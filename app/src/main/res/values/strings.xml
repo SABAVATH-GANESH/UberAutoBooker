@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UberAutoBooker</string>
+    <string name="accessibility_service_description">Automates final confirm in the Uber app for scheduled bookings (personal use only).</string>
+</resources>

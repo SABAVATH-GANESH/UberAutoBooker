@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\gn738\\.gradle\\daemon\\8.9\\com.example.uberautobooker.app-debug-44:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\gn738\\.gradle\\daemon\\8.9\\com.example.uberautobooker.app-main-46:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\gn738\\.gradle\\daemon\\8.9\\com.example.uberautobooker.app-debug-44:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\gn738\\.gradle\\daemon\\8.9\\com.example.uberautobooker.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.uberautobooker.app-debug-44:/drawable_logo1.png.flat",
+        "source": "com.example.uberautobooker.app-main-46:/drawable/logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\gn738\\.gradle\\daemon\\8.9\\com.example.uberautobooker.app-debug-44:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\gn738\\.gradle\\daemon\\8.9\\com.example.uberautobooker.app-main-46:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\gn738\\.gradle\\daemon\\8.9\\com.example.uberautobooker.app-debug-44:\\drawable_search_bar_bg.xml.flat",
+        "source": "C:\\Users\\gn738\\.gradle\\daemon\\8.9\\com.example.uberautobooker.app-main-46:\\drawable\\search_bar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\gn738\\.gradle\\daemon\\8.9\\com.example.uberautobooker.app-debug-44:\\xml_uber_accessibility_service.xml.flat",
+        "source": "C:\\Users\\gn738\\.gradle\\daemon\\8.9\\com.example.uberautobooker.app-main-46:\\xml\\uber_accessibility_service.xml"
+    }
+]

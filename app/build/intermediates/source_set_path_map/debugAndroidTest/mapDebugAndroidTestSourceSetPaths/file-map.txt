@@ -1,0 +1,4 @@
+com.example.uberautobooker.test.app-androidTest-0 C:\Users\gn738\Downloads\UberAutoBooker_Project\app\build\generated\res\resValues\androidTest\debug
+com.example.uberautobooker.test.app-mergeDebugAndroidTestResources-1 C:\Users\gn738\Downloads\UberAutoBooker_Project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.uberautobooker.test.app-mergeDebugAndroidTestResources-2 C:\Users\gn738\Downloads\UberAutoBooker_Project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.uberautobooker.test.app-debugAndroidTest-3 C:\Users\gn738\Downloads\UberAutoBooker_Project\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
